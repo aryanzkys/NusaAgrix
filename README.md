@@ -1,4 +1,4 @@
-# NusaAgrix — Adaptive Precision Farming Platform
+# NusaAgrix - Adaptive Precision Farming Platform
 
 **NusaAgrix** is a precision farming platform designed to integrate satellite-based environmental data and field observations to support better irrigation planning, pest awareness, and location-specific nutrient management.
 
@@ -60,16 +60,16 @@ The early-stage NusaAgrix platform is designed to:
 
 ## Development Roadmap
 
-**Phase 1 — Software Foundation**
+**Phase 1 - Software Foundation**
 Core data integration, rule-based recommendations, and simple dashboard interface.
 
-**Phase 2 — Field-Oriented Validation**
+**Phase 2 - Field-Oriented Validation**
 Testing with local agricultural contexts and refinement of recommendation logic.
 
-**Phase 3 — Intelligent Analytics Integration**
+**Phase 3 - Intelligent Analytics Integration**
 Gradual introduction of machine learning models for prediction and risk estimation.
 
-**Phase 4 — Scalable Smart Farming Platform**
+**Phase 4 - Scalable Smart Farming Platform**
 Advanced AI-driven precision agriculture services for cooperatives, institutions, and regional deployment.
 
 ---
@@ -128,4 +128,4 @@ Distributed under the **MIT License** for open collaboration and continued devel
 
 ## Author
 
-Created as part of a long-term journey toward becoming an **AI Engineer**, starting from practical software systems and growing into real-world intelligent agricultural technology.
+TBA.
