@@ -1,3 +1,4 @@
+```mermaid
 flowchart TB
   %% =========================
   %% NusaAgrix - Technical System Architecture
@@ -139,3 +140,4 @@ flowchart TB
 
   %% ---- Data Flow Return ----
   GW -->|HTTPS POST + device_key| DNS
+```
